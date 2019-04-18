@@ -14,5 +14,8 @@ module.exports = {
         "sourceType": "module"
     },
     "rules": {
+        "linebreak-style": 'off',
+        "max-len": 'off',
+        "indent": ["error", 4]
     }
 };
